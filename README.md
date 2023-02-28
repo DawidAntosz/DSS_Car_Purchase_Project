@@ -16,3 +16,10 @@ Zatem porównujemy zestaw alternatyw, normalizujemy wyniki dla każdego z kryter
 
 ![image](https://user-images.githubusercontent.com/64035334/221970931-aeb7b7c1-809e-4c0f-b0bb-4046f17e87eb.png)
 
+### Metoda RSM:
+
+Metoda jest w pewnym sensie podobna do Topsis, tylko zamiast liczenia odległości od punktu idealnego i anty - idealnego sortujemy w ranking wartości funkcji  scoringowych opartych na obliczaniu odległości od zbioru punktów docelowych oraz punktów anty - idealnych odniesienia
+
+![image](https://user-images.githubusercontent.com/64035334/221971475-748a08ee-57cf-4082-af5b-4bdf5bd3d44f.png)
+
+![image](https://user-images.githubusercontent.com/64035334/221971844-343b0633-2c63-4987-ac5c-47412e1ac82a.png)
