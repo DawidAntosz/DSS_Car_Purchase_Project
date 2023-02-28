@@ -25,3 +25,9 @@ Metoda jest w pewnym sensie podobna do Topsis, tylko zamiast liczenia odległoś
 ![image](https://user-images.githubusercontent.com/64035334/221971844-343b0633-2c63-4987-ac5c-47412e1ac82a.png)
 
 ![image](https://user-images.githubusercontent.com/64035334/221971971-ed1d1ecb-b1d2-4715-b4f9-50355c69664b.png)
+
+
+### Data Base
+Przykładowe dane:
+
+![image](https://user-images.githubusercontent.com/64035334/221972238-d7df787d-3bf6-4233-bf2e-1190853e6c5e.png)
